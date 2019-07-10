@@ -1,0 +1,5 @@
+current directory: /mnt/c/home/schedule/vendor/bundler/gems/childprocess-1.0.1/ext
+/mnt/c/home/.rbenv/versions/2.5.1/bin/ruby mkrf_conf.rb
+
+current directory: /mnt/c/home/schedule/vendor/bundler/gems/childprocess-1.0.1/ext
+/mnt/c/home/.rbenv/versions/2.5.1/bin/ruby -rrubygems /mnt/c/home/schedule/vendor/bundler/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/mnt/c/home/schedule/vendor/bundler/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR\=/mnt/c/home/schedule/vendor/bundler/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.1
